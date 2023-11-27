@@ -1,10 +1,10 @@
-# CSC720-Finite-Automata
+# Finite Automata
 Implementing the following JFLAP finite automaton in Python 3 to recognize a valid email address:
 
 ![an image showing my email validator finite automata design from JFLAP](JFLAP.png "Finite Automata")
 
-# Background: HW1 Problem 9, part 3
-This Python 3 program is for DSU CSC 720, Homework Assignment 1, Problem 9 part 3
+# Background
+This Python 3 program was implemented as part of the graduate-level coursework for [CSC 720](https://catalog.dsu.edu/preview_course_nopop.php?catoid=41&coid=25739) at [Dakota State University](https://dsu.edu/).
 
 # Prerequisites
 This program is written in Python 3, and has been tested to run on Linux (OpenSUSE Tumbleweed) with Python 3.11.  It should work on any currently-supported Python 3.x interpreter.  No additional libraries are required.
