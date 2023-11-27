@@ -1,5 +1,5 @@
 # Finite Automata
-Implementing the following JFLAP finite automaton in Python 3 to recognize a valid email address:
+Implementing the following [JFLAP](https://www.jflap.org/) finite automaton in Python 3 to recognize a valid email address:
 
 ![an image showing my email validator finite automata design from JFLAP](JFLAP.png "Finite Automata")
 
